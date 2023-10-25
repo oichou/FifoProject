@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "cd fifo-backend-bis && npm test",
+    "test": "cd backend && npm test",
     "start": "concurrently \"cd backend && npm start\" \"cd frontend && npm start\""
   },
   "keywords": [],
